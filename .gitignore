@@ -1,0 +1,14 @@
+# Python Core
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller & Virtual Environments
+build/
+dist/
+*.spec
+build_venv/
+
+# Application Specific
+junk/
+resolved_names_cache.json

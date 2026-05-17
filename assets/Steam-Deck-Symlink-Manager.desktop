@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Steam Deck Symlink Manager
+Comment=Relocate game compatdata to SD card and symlink them back to save internal SSD space
+Exec=bash -c "cd \"\$(dirname \"%k\")\" && ./Steam-Deck-Symlink-Manager"
+Icon=preferences-desktop-default-applications
+Terminal=false
+Type=Application
+Categories=Utility;System;
+StartupNotify=true
