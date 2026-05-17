@@ -1,4 +1,8 @@
-# Steam Deck Symlink Manager 🎮🔗
+<p align="center">
+   # Steam Deck Symlink Manager
+  <img src="assets\icon_large.png" alt="SDSMLogo" width="200">
+</p>
+
 
 Hey! So this is a neat little desktop tool made to solve one of the most annoying problems on the Steam Deck: running out of precious internal SSD space because of giant shader caches and compatibility prefix folders (`compatdata`). 
 
